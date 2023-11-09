@@ -1,0 +1,14 @@
+# Hermes web scraped data 
+
+## About the website
+
+**Hermès** is a world-renowned luxury fashion brand founded back in 1837 by Thierry Hermès. Specializing in leather, lifestyle accessories, perfumery, luxury goods, and ready-to-wear, Hermès is a symbol of refined elegance and timeless style. Originally, the company was established in Paris, France and was solely a harness workshop dedicated to serving European noblemen. The company has since expanded globally and now includes a vast range of luxury goods in its portfolio. As a public company, it is listed on the Euronext Paris stock exchange under the ticker symbol **RMS**. Hermès went public in 1993 and achieved a significant market capitalization at its Initial Public Offering. More detailed information about the company can be found on the [Wikipedia page](https://en.wikipedia.org/wiki/Hermès) and the [Bloomberg page](https://www.bloomberg.com/profile/company/RMS:FP) of Hermès.
+
+Rival luxury fashion brands **Louis Vuitton**, **Chanel**, and **Gucci** are primary competitors of Hermès. **Louis Vuitton**, founded in 1854, is a French fashion house known for its distinctive luggage and leather goods. Its one of the worlds leading international fashion houses and is widely recognized in the luxury goods industry. More about the brand can be found on the [Louis Vuitton Wikipedia page](https://en.wikipedia.org/wiki/Louis_Vuitton) and the [Bloomberg page](https://www.bloomberg.com/profile/company/MC:FP). **Chanel**, another French luxury fashion brand established in 1909, is universally acclaimed for its haute couture, luxury goods, and fashion accessories. More information is available on the [Chanel Wikipedia page](https://en.wikipedia.org/wiki/Chanel) and [Bloomberg page](https://www.bloomberg.com/profile/company/CHANEL:US). Finally, **Gucci** is an Italian luxury brand of fashion and leather goods, founded in 1921. Find out more on the [Gucci Wikipedia page](https://en.wikipedia.org/wiki/Gucci) and [Bloomberg page](https://www.bloomberg.com/profile/company/GUCG:IM).
+
+The web-scraped data from the Hermès website has various essential use cases, especially from a market analysis perspective. By tracking factual data such as prices and discounts, one can gain unparalleled insights into the brands pricing strategies. This information can be critical for competitor analysis, understanding product positioning, and for gauging market trends. Furthermore, such data can be used to scrutinize the impact of sales events and the effectiveness of various promotions over time. This could be pivotal for shaping future marketing strategies for similar luxury fashion brands. Furthermore, monitoring prices and discounts can also be beneficial for consumers and retail businesses to make well-informed purchasing decisions.
+
+
+## Link to **dataset**
+
+[Hermes dataset](https://www.databoutique.com/buy-data-list-subset/Hermes%20web%20scraped%20data/r/recNLHIstWppKLm38)
